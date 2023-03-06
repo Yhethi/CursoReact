@@ -14,3 +14,4 @@ function getSaludo(nombre) {
 }
 
 console.log(`Esto es un texto: ${getSaludo(nombreCompleto)}`);
+
