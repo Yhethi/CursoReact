@@ -1,0 +1,9 @@
+body {
+  background: #1e1e1e;
+  font-family: helvetica;
+  color: white;
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  text-align: center;
+}
